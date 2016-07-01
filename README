@@ -1,0 +1,7 @@
+DNS comparison
+======
+
+
+1. pip install dnspython
+2. edit compare.py variables
+3. python compare.py
